@@ -1,4 +1,4 @@
-name: HShap
+name: ASM
 channels:
   - pytorch
   - conda-forge
