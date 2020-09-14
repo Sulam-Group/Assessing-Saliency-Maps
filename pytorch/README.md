@@ -1,6 +1,9 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wa3shLUWXz4WKNXNgehTudZYxMUf-8hz?usp=sharing)
+
+
 # PyTorch InceptionV3 implementation
 
-Here we describe the methods used to fine-tune a pre-trained InceptionV3 on the PNA Kaggle challenge data. If you are intersted in using the pretrained model, go to this interactive tutorial on Google Colab.
+Here we describe the methods used to fine-tune a pre-trained InceptionV3 on the PNA Kaggle challenge data. If you are intersted in using the pretrained model, go to [this tutorial](https://colab.research.google.com/drive/1wa3shLUWXz4WKNXNgehTudZYxMUf-8hz?usp=sharing) on Google Colab or click the "Open in Colab" badge.
 
 ## Image preprocessing
 
